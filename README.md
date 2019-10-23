@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Neural Network_Yeonwoo</title>
 	<meta charset = "UTF-8">
 </head>
 <body>
