@@ -30,7 +30,7 @@
 노드를 위한 가장 유용한 활성함수는 미분 가능한 <b>비선형<sup><small>nonlinear</small></sup></b>함수이다.
 따라서, 미분 가능한 활성화 함수들은 <b>역전파<sup><small>backpropagation</small></sup></b> 알고리즘을 이용하여 신경망 훈련을 쉽게 사용할수 있다.
 </p>
-<p style = "text-align:center"><img src = "activation.png" width = "650" height = "350"></p>
+<p style = "text-align:center"><img src = "activation.png" width = "650" height = "350" class:"center"></p>
 <h4>Charateristics of Sigmoid function</h4>
 <ul>
 	<li><b>함수값이 (0,1)로 제한됨</b>
